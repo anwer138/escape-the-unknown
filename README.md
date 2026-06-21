@@ -14,7 +14,7 @@
 
 ## Description
 
-**Escape the Unknown** is a story-driven, single-player psychological horror game set inside a labyrinth that responds to the player's choices. The player wakes with no memory in an oppressive maze and must solve environmental puzzles — runes, energy orbs, obelisks, ritual stones — to piece together what happened and find a way out. The game leans on atmosphere, voice acting, and Timeline-driven cutscenes rather than combat, with a narrative loop ("New Cycle") that reframes earlier areas as the player learns more.
+**Escape the Unknown** is a story-driven, single-player psychological horror game set inside a labyrinth that responds to the player's choices. The player wakes with no memory in an oppressive maze and must solve environmental puzzles runes, energy orbs, obelisks, ritual stones to piece together what happened and find a way out. The game leans on atmosphere, voice acting, and Timeline-driven cutscenes rather than combat, with a narrative loop ("New Cycle") that reframes earlier areas as the player learns more.
 
 It was designed and built end-to-end as an individual project: concept, level design, scripting, audio direction, and integration.
 
@@ -50,15 +50,11 @@ It was designed and built end-to-end as an individual project: concept, level de
 | ![Main menu](docs/screenshots/main-menu.png) | ![Maze interior](docs/screenshots/maze-interior.png) |
 | ![Puzzle / rune room](docs/screenshots/puzzle-room.png) | ![Cutscene moment](docs/screenshots/cutscene.png) |
 
-> Drop your four chosen screenshots into `docs/screenshots/` using exactly the filenames above (`main-menu.png`, `maze-interior.png`, `puzzle-room.png`, `cutscene.png`) and they'll render automatically.
-
 ## Demo
 
 [![Watch the demo](docs/screenshots/main-menu.png)] (https://youtu.be/r7QLZrlRi9o)
 
 ▶ **[Watch the gameplay demo](https://youtu.be/r7QLZrlRi9o)**
-
-> Replace `VIDEO_URL_HERE` with your YouTube link once uploaded. Reminder: a video shorter than 60 s or square/vertical will be auto-classified as a Short and can't be converted afterwards — re-encode to 16:9 / >60 s before upload if you want a regular video.
 
 ## Project Report
 
