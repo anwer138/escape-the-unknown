@@ -1,4 +1,4 @@
-# Escape the Unknown
+﻿# Escape the Unknown
 
 > A first-person psychological horror maze game built in Unity, where memory, perception, and silence are the real puzzles.
 
@@ -54,9 +54,9 @@ It was designed and built end-to-end as an individual project: concept, level de
 
 ## Demo
 
-[![Watch the demo](docs/screenshots/main-menu.png)](VIDEO_URL_HERE)
+[![Watch the demo](docs/screenshots/main-menu.png)] (https://youtu.be/r7QLZrlRi9o)
 
-▶ **[Watch the gameplay demo](VIDEO_URL_HERE)**
+▶ **[Watch the gameplay demo](https://youtu.be/r7QLZrlRi9o)**
 
 > Replace `VIDEO_URL_HERE` with your YouTube link once uploaded. Reminder: a video shorter than 60 s or square/vertical will be auto-classified as a Short and can't be converted afterwards — re-encode to 16:9 / >60 s before upload if you want a regular video.
 
@@ -89,3 +89,4 @@ The underlying Unity project source, art assets, and recorded audio are **All Ri
 ---
 
 *Author: Anwer Bouharb · 2026*
+
