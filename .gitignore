@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor leftovers
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
