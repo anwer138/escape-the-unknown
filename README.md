@@ -52,7 +52,7 @@ It was designed and built end-to-end as an individual project: concept, level de
 
 ## Demo
 
-[![Watch the demo](docs/screenshots/main-menu.png) (https://youtu.be/r7QLZrlRi9o)] 
+[![Watch the demo](docs/screenshots/main-menu.png)](https://youtu.be/r7QLZr1Ri9o)
 
 ▶ **[Watch the gameplay demo](https://youtu.be/r7QLZrlRi9o)**
 
