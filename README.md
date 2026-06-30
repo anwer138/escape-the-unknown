@@ -56,12 +56,6 @@ It was designed and built end-to-end as an individual project: concept, level de
 
 ▶ **[Watch the gameplay demo](https://youtu.be/r7QLZrlRi9o)**
 
-## Project Report
-
-The full PFA report covering design rationale, system architecture, sprint plan, and post-mortem is included here:
-
-📄 **[`docs/RapportFinal.pdf`](docs/RapportFinal.pdf)**
-
 ## Source Code Access
 
 The Unity project source (scenes, prefabs, scripts, assets) is kept in a private repository because the build directory exceeds GitHub's size limits and includes third-party assets that are licensed for use but not for public redistribution.
